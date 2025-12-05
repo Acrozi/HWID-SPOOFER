@@ -82,3 +82,9 @@ Educational and privacy purposes only. Not responsible for bans, data loss, or s
 ---
 
 **Author:** Acrozi | **Issues:** https://github.com/Acrozi/HWID-SPOOFER/issues
+
+---
+
+⭐ **If this project helped you in any way, please consider giving it a star!** ⭐
+
+Your support is greatly appreciated!
