@@ -21,9 +21,9 @@ View all current system identifiers. Export reports for comparison.
 
 Real-time output showing spoofing progress and status.
 
-![Tools](images/help.jpg)
+![Help](images/help.jpg)
 
-Additional tools: Network reset, clean traces, disable S.M.A.R.T.
+Help window showing detailed information about spoofing, identifiers, and additional tools.
 
 ---
 
